@@ -5,7 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavsar667/)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2430357)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/2430357)
 [![Portfolio](https://img.shields.io/badge/Portfolio-akash--bhavsar.github.io-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://akash-bhavsar.github.io)
 [![Email](https://img.shields.io/badge/Email-arbhavsar63%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arbhavsar63@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Akash-Bhavsar&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
