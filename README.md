@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Akash+Bhavsar+%F0%9F%91%8B;Penetration+Tester+%26+AppSec+Consultant;OSCP%2B+Certified+%7C+7%2B+Years+Experience;I+Build+Labs+That+Simulate+Real+Attacks" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Akash+Bhavsar+%F0%9F%91%8B;Penetration+Tester+%26+AppSec+Consultant;OSCP%2B+Certified+%7C+8%2B+Years+Experience;I+Build+Labs+That+Simulate+Real+Attacks" alt="Typing SVG" />
 
 <br/>
 
